@@ -12,3 +12,15 @@ to patch_mp.ff and drag to MW2 folder
 
 Use "admin" for the username and you should now be able to connect to your console via the tool
 and utilize it's functions.
+
+CHANGELOG
+//////////
+
+Alpha v0.1:
+- Finished Misc Panel
+- Most ARs finished
+- QoL
+
+Alpha v0.2:
+- Fixed xNotify bug
+- No login screen
