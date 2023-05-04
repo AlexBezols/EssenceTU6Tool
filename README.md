@@ -16,11 +16,16 @@ and utilize it's functions.
 CHANGELOG
 //////////
 
-Alpha v0.1:
+Alpha v0.1 (4-24-23):
 - Finished Misc Panel
 - Most ARs finished
 - QoL
 
-Alpha v0.2:
+Alpha v0.2 (4-26-23):
 - Fixed xNotify bug
 - No login screen
+
+Alpha v0.3 (5-3-23)
+- All ARs and related functions work
+- All Snipers and related functions work
+- Added Tom Holland
