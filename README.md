@@ -29,3 +29,8 @@ Alpha v0.3 (5-3-23)
 - All ARs and related functions work
 - All Snipers and related functions work
 - Added Tom Holland
+
+Alpha v0.3 (6-24-23)
+- Updated the TU6 Patch: https://drive.google.com/drive/folders/1bSn2me-bEx_HoZ-5L0RfdQkVtUTwTm01?usp=sharing
+- Added OMA Sprint/Shax
+- Made sure anim offsets didn't change
